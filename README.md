@@ -8,3 +8,4 @@
     1936 by Ronald Fisher.
   - Petal and Sepal: http://terpconnect.umd.edu/~petersd/666/html/iris_with_labels.jpg
   - Objective: Classify a new flower as belonging to one of the 3 classes given the 4 features
+LInkedin URl- https://www.linkedin.com/posts/mo2614_datajobs-datasciencejobs-datascientists-activity-6783272895591329792-MzvQ
